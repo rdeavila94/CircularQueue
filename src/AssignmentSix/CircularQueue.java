@@ -2,7 +2,7 @@ package AssignmentSix;
 /**
  * This assignment will have us create a circular queue out of an
  * integer array.
- * @author Richard DeAvila 010668448
+ * @author Richard DeAvila *****8448
  *
  */
 
